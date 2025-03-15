@@ -28,6 +28,7 @@ If you run or know a project, that should be added to this list, please open an 
   * [OpenAI PHP Client](https://github.com/openai-php/client)
     * [Symfony Integration](https://github.com/openai-php/symfony)
     * [Laravel Integration](https://github.com/openai-php/laravel)
+* [OpenRouter](https://github.com/moe-mizrak/laravel-openrouter)
 
 ## Model Context Protocol
 
