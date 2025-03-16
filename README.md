@@ -40,7 +40,9 @@ If you run or know a project, that should be added to this list, please open an 
 ## Vector Store Integrations
 
 * [ChromaDB PHP](https://github.com/CodeWithKyrian/chromadb-php)
+* [pgvector-php](https://github.com/pgvector/pgvector-php)
 * [Pinecone PHP](https://github.com/probots-io/pinecone-php)
+* [Qdrant PHP Client](https://github.com/hkulekci/qdrant-php)
 
 ## Model Runtimes
 
