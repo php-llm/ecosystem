@@ -34,6 +34,8 @@ If you run or know a project, that should be added to this list, please open an 
 ## Model Context Protocol
 
 * [Drupal MCP Module](https://git.drupalcode.org/project/mcp)
+* [Laravel MCP](https://github.com/mohamedahmed01/laravel-mcp-sdk)
+* [Laravel MCP Client](https://github.com/scriptoshi/laravel-mcp-client)
 * [Logiscape MCP SDK](https://github.com/logiscape/mcp-sdk-php)
 * [PHP LLM MCP SDK](https://github.com/php-llm/mcp-sdk)
 
@@ -53,3 +55,8 @@ If you run or know a project, that should be added to this list, please open an 
 
 * [RubixML](https://github.com/RubixML/ML)
 * [PHP-ML](https://gitlab.com/php-ai/php-ml)
+
+## Miscellaneous
+
+* [Context Generator for LLM](https://github.com/butschster/context-generator)
+* [Fabric Pattern](https://github.com/php-llm/fabric-pattern)
