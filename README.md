@@ -15,6 +15,7 @@ If you run or know a project, that should be added to this list, please open an 
 * [LLM Chain](https://github.com/php-llm/llm-chain)
   * [Symfony Integration](https://github.com/php-llm/llm-chain-bundle)
 * [LLPhant](https://github.com/llphant/llphant)
+* [Modelflow AI](https://github.com/modelflow-ai/.github)
 * [Prism](https://github.com/prism-php/prism)
 * [Neuron AI](https://github.com/inspector-apm/neuron-ai)
 
