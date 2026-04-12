@@ -11,6 +11,7 @@ If you run or know a project, that should be added to this list, please open an 
 
 * [AutoPHP](https://github.com/LLPhant/AutoPHP)
 * [Instructor for PHP](https://github.com/cognesy/instructor-php)
+* [Laravel AI SDK](https://laravel.com/ai)
 * [LLM Agents PHP SDK](https://github.com/llm-agents-php/agents)
 * [LLM Chain](https://github.com/php-llm/llm-chain)
   * [Symfony Integration](https://github.com/php-llm/llm-chain-bundle)
