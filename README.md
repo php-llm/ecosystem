@@ -17,8 +17,9 @@ If you run or know a project, that should be added to this list, please open an 
   * [Symfony Integration](https://github.com/php-llm/llm-chain-bundle)
 * [LLPhant](https://github.com/llphant/llphant)
 * [Modelflow AI](https://github.com/modelflow-ai/.github)
-* [Prism](https://github.com/prism-php/prism)
 * [Neuron AI](https://github.com/inspector-apm/neuron-ai)
+* [Prism](https://github.com/prism-php/prism)
+* [Symfony AI](https://github.com/symfony/ai)
 
 ## LLM Integrations
 
@@ -35,11 +36,12 @@ If you run or know a project, that should be added to this list, please open an 
 
 ## Model Context Protocol
 
+* [Official PHP MCP SDK](https://github.com/modelcontextprotocol/php-sdk)
 * [Drupal MCP Module](https://git.drupalcode.org/project/mcp)
+* [Laravel MCP (official)](https://github.com/laravel/mcp)
 * [Laravel MCP](https://github.com/mohamedahmed01/laravel-mcp-sdk)
 * [Laravel MCP Client](https://github.com/scriptoshi/laravel-mcp-client)
 * [Logiscape MCP SDK](https://github.com/logiscape/mcp-sdk-php)
-* [PHP LLM MCP SDK](https://github.com/php-llm/mcp-sdk)
 
 ## Vector Store Integrations
 
