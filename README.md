@@ -64,3 +64,4 @@ If you run or know a project, that should be added to this list, please open an 
 
 * [Context Generator for LLM](https://github.com/butschster/context-generator)
 * [Fabric Pattern](https://github.com/php-llm/fabric-pattern)
+* [Hindsight PHP](https://github.com/skybleak333/hindsight-php)
